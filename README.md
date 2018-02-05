@@ -10,6 +10,7 @@ _[RehabMan](https://github.com/RehabMan)_ - helped with getting the graphics wor
 
 - Intel HD 5300 integrated graphics with HiDPI 1600x900
 - native power management
+- WiFi
 - audio
 - built-in webcam
 - iMessage, if you follow [this guide](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)
@@ -17,6 +18,7 @@ _[RehabMan](https://github.com/RehabMan)_ - helped with getting the graphics wor
 ## What doesn't work
 
 - touchpad
+- bluetooth
 - built-in microphone
 - battery status
 - sleep (doesn't work with laptops anyways)
