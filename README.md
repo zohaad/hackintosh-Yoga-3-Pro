@@ -27,5 +27,5 @@ _[RehabMan](https://github.com/RehabMan)_ - helped with getting the graphics wor
 ## Instructions
 
 1. Make a bootable usb the [vanilla way](https://www.reddit.com/r/hackintosh/comments/68p1e2/ramblings_of_a_hackintosher_a_sorta_brief_vanilla/).
-2. copy contents of [hackintosh stuff](./hackintosh\ stuff) into the Install MacOS High Sierra partition for post install.
+2. copy contents of [hackintosh stuff](/hackintosh\ stuff) into the Install MacOS High Sierra partition for post install.
 3. Perform post install and enjoy!
